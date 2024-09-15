@@ -1,0 +1,7 @@
+Lab03_03. Telnet
+
+1. Skonfiguruj przełącznik z adresem 192.168.XX.1, gdzie XX to dwie ostatnie cyfry Twojego indeksu i podłącz go do swojego komputera (adres komputera: 192.168.XX.10)
+2. Ustaw niezbędne hasła.
+3. Przełącznik nazwij swoim nazwiskiem (bez polskich znaków).
+4. Uruchom i zarejestruj sesję Telnet za pomocą programu Wireshark.
+5. Sprawdź jakie protokoły z warstwy aplikacji i transportowej realizują usługę Telnet i na jakim numerze portu jest realizowana. 

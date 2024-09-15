@@ -1,0 +1,8 @@
+ Jaki protokół dokonuje odwzorowania nazw centralserver.pt.pka i branchserver.pt.pka na adresy IP?
+DHCP
+
+1. Jakie protokoły w warstwie aplikacji i transportowej są wykorzystywane do realizacji usług (WWW, DNS, DHCP, TELNET)?
+Odp: DNS
+
+2. Na jakich dobrze znanych numerach portów uruchomione są usługi?
+Odp:TELNET-23, DNS-53, DHCP-67, WWW-80
